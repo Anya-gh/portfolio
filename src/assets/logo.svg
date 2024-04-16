@@ -1,5 +1,5 @@
 <svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="200" cy="200" r="200" fill="url(#paint0_linear_0_1)"/>
+<rect width="400" height="400" rx="50" fill="url(#paint0_linear_0_1)"/>
 <g filter="url(#filter0_d_0_1)">
 <path d="M57 227C57.7708 216.726 62.8618 206.296 66.7281 196.965C77.399 171.21 88.9041 144.847 104.019 121.267C106.976 116.654 112.255 106.272 118.688 105.03C122.352 104.322 121.836 116.537 121.893 117.989C122.773 140.43 117.943 162.653 118.148 185.149C118.19 189.801 120.233 193.654 120.233 198.184" stroke="white" stroke-width="15" stroke-linecap="round"/>
 </g>

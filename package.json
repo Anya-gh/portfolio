@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "cross-env": "^7.0.3",
-    "framer-motion": "^11.0.5",
+    "framer-motion": "^11.0.18",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.1"
