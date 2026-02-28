@@ -20,9 +20,9 @@ export default function Home() {
     <div className="flex flex-col md:flex-row px-8 py-8 md:justify-center h-full w-full">
       <div className="mb-20 md:mb-0 flex flex-col md:items-center md:w-1/2 md:h-screen md:justify-center">
         <div className="text-left md:fixed">
-          <h1 className="tracking-[0.15em] text-3xl md:text-5xl font-bold">Aniket Singh</h1>
-          <h2 className="tracking-wider text-violet-500 text-xl md:text-2xl font-bold w-4/6">Software Engineer</h2>
-          <p className="text-sm md:w-2/3 text-gray-400">Previously Computer Science MEng at University of Warwick, now open for work.</p>
+          <h1 className="tracking-wider text-3xl md:text-5xl font-bold">Aniket Singh</h1>
+          <h2 className="tracking-wider text-violet-500 text-xl md:text-2xl font-bold w-5/6">Software Engineer</h2>
+          <p className="text-sm md:w-2/3 text-gray-400">Currently at <a href="https://www.symfos.com/" className="text-slate-300 hover:text-violet-500 transition duration-200 font-bold">Symfos</a>.</p>
           {mediumScreen && <Contents observerRefs={observerRefs}/>}
           <Icons />
         </div>
